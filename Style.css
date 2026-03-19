@@ -6,7 +6,7 @@ font-family:  "Poppins", sans-serif;}
 
 .top {width: 100%;
 min-height: 100vh;
-background-image: linear-gradient(rgba(0, 0, 0, 0.372)), url(images/Forest.png);
+background-image: linear-gradient(rgba(0, 0, 0, 0.372)), url('Images/Forest.png');
 background-position: center;
 background-size: cover;
 overflow:hidden;
